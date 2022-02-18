@@ -14,3 +14,4 @@
 # Technical Information
 - The python code for the microcontroller was developed under Zerynth studio, consequently it will not run properly under any other environment, you will have to register your microcontroller under zerynth studio and then run the code.
 - The desktop GUI application was developed with Python 3.8
+- Due to zerynth studio limitations a c library was included.
