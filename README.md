@@ -1,4 +1,11 @@
 # 4WD Rover ESP32 Desktop client 
+<p align="center">
+ <img alt="Languages" src="https://img.shields.io/badge/language-Python-blue">
+ <img alt="Version" src="https://img.shields.io/badge/Python->=3.6-blue"/>
+ <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue"/>
+  <img alt="Development" src="https://img.shields.io/badge/development-terminated-brightgreen"/>   
+</p>
+
  Desktop python GUI application for controlling a 4WD Rover powered by an ESP-32  microcontroller.
  Goal: The aim of this project was the remote control of a rover device powered by an ESP-32 microcontroller with a dedicated desktop application.
  The rover was equipped with 2 HCSR04 ultrasonic sensors, 2 infrared sensors, a battery slot and of course 4 dc motors and can be piloted in two different ways: 
